@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <!--k rel="stylesheet" href="style.css"/>-->
+    <!--<link rel="stylesheet" href="css/Bootstrap.min.css" />-->
+    <title>DOCP-PLANNER-LANDING-PAGE</title>
+  </head>
+  <body>
+   <header>
+    <div class="docplanner-header">
+      <h1 class="header-logo">
+        <a class="logo-link" href="/"> <img class="header-logo-image" src="https://www.docplanner.com/img/logo-default-group-en.svg?v=1" alt="Docplanner Group"  /></a>
+      </h1>
+      <nav class="header-menu">
+        <ul>
+          <li><a class="active" href="#About">About us</a></li>
+          <li><a href="#Career">Career</a></li>
+        </ul>
+      </nav>
+    </div>
+    </header>    
+    
+    <main>
+      
+      <section class="introduction">
+        
+          <div class="introduction-logo">
+            <img class="lead-logo" src="https://www.docplanner.com/img/sygnet.png" />
+        </div>
+          <h1 class="introduction-title">Making the healthcare experience more human</h1>
+       
+       <div class="introduction-text">
+         <p>We want patient to find the perfect doctors and book an appointment in the most easy way. The patient journey should be enjoyable, and that's why we are always next to them: to help them find the best possible care. Anytime, anywhere.</p>
+         <p>We also help doctors to better manage their practice and build their online reputation.doctors are able not only to improve their online presence, but also to devote their time to what really matters</p>
+       </div>      
+      </section>
+      
+  <section class="services">
+    
+    <div class="service-card service-card-patients">
+      <h2 class="service-card-for">
+        For patients
+      </h2>
+      <h1 class="service-card-title">
+        Find a doctor, book a visit and solve any health related doubt
+      </h1>
+      <div class="service-card-content service-content-patient">
+         <select class="service-card-select">
+           <option>Choose a country</option>          
+             <option>France</option>   
+           <option>Spain</option>   
+        </select>
+        <figure class="service-card-figure">
+        <img class="service-card-image"       src="https://www.docplanner.com/img/screen-marketplace@2x.png">
+        </figure>
+        
+      </div>
+    </div>
+    
+    <div class="service-card service-card-doctors">
+        <h2 class="service-card-for">
+        For doctors
+       </h2>
+       <h1 class="service-card-title">
+        Save time managing visits and cut no-shows by half 
+      </h1>
+<div class="service-card-content service-content-doctors">
+    <figure class="service-card-figure figure-doctors">
+    <img class="service-card-image" src="https://www.docplanner.com/img/screen-saas@2x.png" />
+      </figure>
+      </div>   
+  </section>
+   
+  <section class="brand-section">
+    <h1 class="slogan"> We are a global company<br>with local culture</h1>
+    <ul class="list-brands">
+      <li><a href="//www.znanylekarz.pl" target="_blank">ZnanyLekarz</a></li>
+      <li><a href="//www.doctoralia.es" target="_blank">MioDottore</a></li>
+      <li><a href="//www.doctoralia.es/" target="_blank">Doctoralia</a></li>
+      <li><a href="https://www.doktortakvimi.com/_ga=2.24354877.620509152.1539013591802316268.1539013591" target="_blank">DoctorTkvimi</a></li>
+      <li><a href="//www.znamylekar.cz/" target="_blank">ZnamyLekar</li>
+    </ul>		
+  </section>
+    
+    <section class="stats">
+      <div class="stats-header">
+        <h1> The world's<br>biggest healthcare platform</h1>
+        <p>We work from 6 offices all over the world, bringing Docplanner Group to life in almost 20 countries</p>
+      </div>
+      <div class="stats-elements">
+       <div class="first-items">
+        <div class="stats-item item-1">
+            <img class="item-image item1-image"                src="https://www.docplanner.com/img/flag.png" />
+            <h3>Leader in 8 countries</h3>
+          <p>Poland, Turkey, Spain, Italy, Mexico, Brazil, Argentina and Chile</p>
+        </div>
+         <div class="stats-item item-2">
+            <img class="item-image item2-image" src="https://www.docplanner.com/img/patients.png" />
+         <h3>20 million unique patients</h3>
+          <p>visit us every month</p>
+        </div>
+        </div>
+        <div class="second-items">
+        <div class="stats-item item-3">
+            <img class="item-image item3-image" scr="https://www.docplanner.com/img/visits.png" srcset="https://www.docplanner.com/img/visits.png 1x, https://www.docplanner.com/img/visits@2x.png 2x" />
+            <h3>600 000 appointments</h3>
+          <p>booked last month</p>
+        </div>
+     
+        <div class="stats-item item-4">
+            <img class="item-image item4-image" src="https://www.docplanner.com/img/doctors.png" />
+            <h3>35 000 active doctors</h3>
+          <p>trust in our solutions</p>
+        </div>
+        </div>
+      </div>
+    </section>
+     
+    <section class="offices">
+      <div class="offices-header">
+      <h1>Improve the lives of millions. Change yours forever</h1>
+      <p>More than 500 team mates share our same vision, goals and passion. With offices in Warsaw, Barcelona, Istanbul, Rome, Mexico City and Curitiba, our search for great talent never stops.</p>
+      </div>
+      <div class="offices-slider">
+     <div class="offices-first-slider"> 
+        <div class="office office-warsaw">
+       <a class="office-inner" href="/career?&loc=poland#jobs-offers">
+        <figure class="office-image">
+        <img src="https://www.docplanner.com/images/warsaw.png"  alt="" />
+        </figure>
+          <div class="office-description">Warsaw<span class="btn">SEE OPENINGS</span></div>
+          </a>
+        </div>
+        <div class="office office-barcelona">
+        <a class="office-inner" href="/career?&loc=spain#jobs-offers">
+        <figure class="office-image">
+        <img src="https://www.docplanner.com/images/barcelona.png"  alt="" />
+        </figure>
+          <div class="office-description">Barcelona<span class="btn">SEE OPENINGS</span></div>
+          </a>
+      </div>
+        <div class="office office-istanbul">
+         <a class="office-inner" href="/career?&loc=rome#jobs-offers">
+        <figure class="office-image">
+        <img src="https://www.docplanner.com/images/istanbul.png"  alt="" />
+        </figure>
+        <div class="office-description">Istanbul<span class="btn">SEE OPENINGS</span></div>
+          </a>
+           </div>
+          </div>
+        <div class="offices-second-slider">
+        <div class="office office-rome">
+          <a class="office-inner" href="/career?&loc=italy#jobs-offers">
+        <figure class="office-image">
+        <img src="https://www.docplanner.com/images/rome.png"  alt="" />
+        </figure>
+        <div class="office-description">Rome<span class="btn">SEE OPENINGS</span></div>
+          </a>
+      </div>
+       <div class="office office-mexico">
+        <a class="office-inner" href="/career?&loc=mexico#jobs-offers">
+        <figure class="office-image">
+        <img src="https://www.docplanner.com/images/mexico-city.png"  alt="" />
+        </figure>
+        <div class="office-description">Mexico city<span class="btn">SEE OPENINGS</span></div>
+         </a>
+      </div>
+        <div class="office office-curitibia">
+         <a class="office-inner" href="/career?&loc=brazil#jobs-offers">
+        <figure class="office-image">
+        <img src="https://www.docplanner.com/images/curitiba.png"  alt="" />
+        </figure>
+        <div class="office-description">Curitiba<span class="btn">SEE OPENINGS</span>
+          </div>
+          </a>
+         </div>
+          </div>
+        
+      </div>
+       
+    </section>
+    
+    </main>
+<footer class="main-footer">
+  <div classer="footer-inner">
+    <p>
+      <a href="//www.znanylekarz.pl" target="_blank">Poland</a>, We are leaders in 8 countries:
+    <a href="//www.doktortakvimi.com" target="_blank">Turkey</a> , <a href="//www.doctoralia.es" target="_blank">Spain</a>, <a href="//www.miodottore.it" target="_blank">Italy</a>,<a href="//www.doctoralia.com.mx" target="_blank">Mexico</a>, <a href="http://www.doctoralia.com.br" target="_blank">Brazil</a>,<a href="http://www.doctoraliar.com" target="_blank">Argentina</a> <a href="http://www.doctoralia.cl" target="_blank">Chile</a>
+    </p>
+    <p>
+This site uses cookies to deliver services in accordance with this Privacy Policy. You can specify the conditions for storing or accessing cookies on your browser.</p>
+
+www.docplanner.com © 2018
+  </div>
+  
+  
+</footer>
+</body>
+</html>
